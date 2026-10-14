@@ -1,1 +1,2 @@
 It contains sample text
+This is second line to the sample text
